@@ -1,0 +1,3 @@
+Testing adding txt to hello world
+Then saving and staging it
+then using git add . to add all files in current & subsequent directories to the staging area
